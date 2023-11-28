@@ -27,6 +27,16 @@ export const projects = [
     visit: 'https://github.com/AhmedWaly0000/tictactoeGAME',
     id: 2,
   },
+
+  {
+    title: 'Tic Tac Toe Game',
+    description: "Developed a tic-tac-toe game using React.js. Able to use react hooks to keep track of the amount of wins for each opponent",
+    image: '/images/tictac.png',
+    tags: ['React'],
+    source: 'https://ahmedwaly0000.github.io/tictactoeGAME/',
+    visit: 'https://github.com/AhmedWaly0000/tictactoeGAME',
+    id: 2,
+  },
   
 ];
 
