@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Memory Game',
-    description: "Created React game where when you match two identical cards player gets a point. This Utilized React hooks to make the game functionality and framer motion to add animation to the game.",
+    description: "Match cards to get points, player with most matches wins!",
       image: '/images/memory.png',
       tags: ['React'],
     source: 'https://memory-game-app-psi.vercel.app/',
@@ -11,7 +11,7 @@ export const projects = [
 
   {
     title: 'Crypto API Website',
-    description: "Using React and crypto API created a website where you can see the data of various crypto currencies. Built a search and filter feature, and when clicking on crypto currency more information is displayed.",
+    description: "Responsive Crypto site built using Axios API.",
       image: '/images/crypto.png',
       tags: ['React', 'Json'],
     source: 'https://crypto-ranking-api-app.vercel.app/',
@@ -19,13 +19,40 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Tic Tac Toe Game',
-    description: "Developed a tic-tac-toe game using React.js. Able to use react hooks to keep track of the amount of wins for each opponent",
+    title: 'Tic Tac Toe',
+    description: "Figure out who is the best at tic-tac-toe",
     image: '/images/tictac.png',
     tags: ['React'],
     source: 'https://ahmedwaly0000.github.io/tictactoeGAME/',
     visit: 'https://github.com/AhmedWaly0000/tictactoeGAME',
     id: 2,
+  },
+  {
+    title: 'Dice Roll',
+    description: "Dice is rolled, highest number wins. ",
+    image: '/images/dice.jpeg',
+    tags: ['JavaScript'],
+    source: 'https://github.com/AhmedWaly0000/DiceGame',
+    visit: 'https://github.com/ahmedwaly0000.github.io/DiceGame/',
+    id: 3,
+  },
+  {
+    title: 'Simon Says',
+    description: "Keep track of Simon's color sequence or fail",
+    image: '/images/simon.jpeg',
+    tags: ['Javascript'],
+    source: 'https://github.com/AhmedWaly0000/SimonGame',
+    visit: 'https://simon-game-drab.vercel.app/',
+    id: 4,
+  },
+  {
+    title: 'Drum Kit',
+    description: "Play Drums online",
+    image: '/images/drum-kit.jpeg',
+    tags: ['JavaScript'],
+    source: 'https://github.com/AhmedWaly0000/DrumKit',
+    visit: 'https://drum-kit-nu-coral.vercel.app/',
+    id: 5,
   }
 ];
 
