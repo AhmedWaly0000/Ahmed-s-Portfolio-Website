@@ -4,7 +4,7 @@ export const projects = [
     description: "Created React game where when you match two identical cards player gets a point. This Utilized React hooks to make the game functionality and framer motion to add animation to the game.",
       image: '/images/memory.png',
       tags: ['React'],
-    source: 'memory-game-rgqhadbac-ahmedwaly0000.vercel.app',
+    source: 'https://memory-game-app-psi.vercel.app/',
     visit: 'https://github.com/AhmedWaly0000/memorygame',
     id: 0,
   },
