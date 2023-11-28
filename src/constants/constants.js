@@ -8,15 +8,7 @@ export const projects = [
     visit: 'https://github.com/AhmedWaly0000/memorygame',
     id: 0,
   },
-  {
-    title: 'Real Time Chat Application',
-    description:"    Created a chat application that allows users to chat back and forth on two different devices in real time Developed using react and socket.io to make this messenger project",
-    image: '/images/chatapp.png',
-    tags: ['React', 'Node.js', 'Socket.io'],
-    source: 'https://github.com/AhmedWaly0000/Real-Time-chat-app-Socket.io',
-    visit: 'https://github.com/AhmedWaly0000/Real-Time-chat-app-Socket.io',
-    id: 1,
-  },
+
   {
     title: 'Crypto API Website',
     description: "Using React and crypto API created a website where you can see the data of various crypto currencies. Built a search and filter feature, and when clicking on crypto currency more information is displayed.",
@@ -24,7 +16,7 @@ export const projects = [
       tags: ['React', 'Json'],
     source: 'https://crypto-api-website-ahmed.herokuapp.com/',
     visit: 'https://github.com/AhmedWaly0000/crypto-api-website',
-    id: 2,
+    id: 1,
   },
   {
     title: 'Tic Tac Toe Game',
@@ -33,26 +25,8 @@ export const projects = [
     tags: ['React'],
     source: 'https://ahmedwaly0000.github.io/tictactoeGAME/',
     visit: 'https://github.com/AhmedWaly0000/tictactoeGAME',
-    id: 3,
-  },
-  {
-    title: 'Auto Repair Shop Website/Mobile Redesign',
-    description: "Redesigned  website/mobile for  auto repair shop. Multiple iterations of redesign through feedback from owner and from user testing. Facilitated highly functional prototype with animation using Figma.",
-    image: '/images/autorepair.png',
-    tags: ['Figma', 'Wireframe/Prototype', 'User Testing'],
-    source: 'https://www.figma.com/proto/i7KVKvTNk2ALjqWMhestR8/Final-Redesign?node-id=16%3A6570&starting-point-node-id=16%3A6570',
-    visit: 'https://www.figma.com/proto/i7KVKvTNk2ALjqWMhestR8/Final-Redesign?node-id=16%3A6570&starting-point-node-id=16%3A6570',
-    id: 4,
-  },
-  {
-    title: 'Canvas Website Redesign',
-    description: "Redesigned the canvas calendar through multiple iterations of user testing. Generated highly functional prototype with animations using Figma.",
-    image: '/images/capturecanvas.png',
-    tags: ['Figma', 'Wireframe/Prototype', 'User Testing'],
-    source: 'https://www.figma.com/proto/GNWz7RlTKWxXlbSKvfGWT7/Canvas-LMS-Prototypes?node-id=447948%3A2839&scaling=min-zoom&page-id=77%3A432&starting-point-node-id=447948%3A2839',
-    visit: 'https://www.figma.com/proto/GNWz7RlTKWxXlbSKvfGWT7/Canvas-LMS-Prototypes?node-id=447948%3A2839&scaling=min-zoom&page-id=77%3A432&starting-point-node-id=447948%3A2839',
-    id: 4,
-  },
+    id: 2,
+  }
 ];
 
 
