@@ -49,10 +49,11 @@ const Timeline = () => {
       <SectionText>
       My name is Ahmed and I am frontend developer.
       I enjoy being part of team to develop awesome projects and growing in
-      team relational bonding. Outside of my career I am a Christian 
-      that is a part of Gracepoint Church, that aims to spread the gospel to college students.
-      I enjoy hanging out with my church such as going on beach outings, late night boba, sports and boardgames.
-      Here is some pictures to get to know me better.
+      team relational bonding. Outside of my career I am a Christian, and a member of Acts 2 Network 
+      that aims to spread the gospel to college students.
+      I enjoy hanging out with my church such as going out to eat food together, working together as a team,
+      being with each other during the ups and downs of life.
+      
       </SectionText>
      
       <SectionDivider />
